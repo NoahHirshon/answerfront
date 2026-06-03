@@ -8,6 +8,10 @@ Stripe checkout:
 
 - `https://buy.stripe.com/fZu6oGdt6fjTahq30cdMI00`
 
+Sample report:
+
+- `https://noahhirshon.github.io/answerfront/sample-report.html`
+
 ## Target Segment
 
 Start with owner-led or founder-led service firms that depend on high-intent discovery:
@@ -49,7 +53,11 @@ It’s `$149`, delivered in 3 business days, and the order page is here:
 
 `https://noahhirshon.github.io/answerfront/`
 
-Worth taking a look?
+Here is a sample report format:
+
+`https://noahhirshon.github.io/answerfront/sample-report.html`
+
+Worth reviewing the sample?
 
 ## Short Contact Form Version
 
@@ -59,6 +67,9 @@ The audit checks whether AI answers mention your company in buyer-style prompts,
 
 It’s `$149`, delivered in 3 business days:
 `https://noahhirshon.github.io/answerfront/`
+
+Sample report:
+`https://noahhirshon.github.io/answerfront/sample-report.html`
 
 ## Follow-Up
 
@@ -74,6 +85,10 @@ Here is the page:
 
 `https://noahhirshon.github.io/answerfront/`
 
+Sample report:
+
+`https://noahhirshon.github.io/answerfront/sample-report.html`
+
 ## First Sprint Goal
 
 - Send 10 targeted notes
@@ -85,5 +100,7 @@ Here is the page:
 ## Drafting Status
 
 Ten first-touch Gmail drafts were created on June 3, 2026 and are tracked in `docs/campaign-ledger.md`.
+
+The drafts were updated on June 3, 2026 to include the public sample report link.
 
 They are not sent yet. Sending from the connected Gmail account should wait for explicit approval because it uses Noah's personal sender identity.
