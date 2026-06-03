@@ -84,6 +84,6 @@ Here is the page:
 
 ## Drafting Status
 
-Three first-touch Gmail drafts were created on June 3, 2026 and are tracked in `docs/campaign-ledger.md`.
+Ten first-touch Gmail drafts were created on June 3, 2026 and are tracked in `docs/campaign-ledger.md`.
 
 They are not sent yet. Sending from the connected Gmail account should wait for explicit approval because it uses Noah's personal sender identity.
