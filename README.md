@@ -12,14 +12,17 @@ The fastest path to revenue is a productized service:
 ## Project Files
 
 - Live page: `https://noahhirshon.github.io/answerfront/`
+- Sample report: `https://noahhirshon.github.io/answerfront/sample-report.html`
 - Live checkout: `https://buy.stripe.com/fZu6oGdt6fjTahq30cdMI00`
 - `index.html` - the sellable website
+- `sample-report.html` - public fictional sample audit report
 - `styles.css` - responsive visual design
 - `script.js` - intake form behavior and live Stripe checkout redirect
 - `assets/answerfront-hero.png` - generated project-bound hero image
 - `docs/offer.md` - positioning, ICP, pricing, and outreach
 - `docs/fulfillment-playbook.md` - how to deliver the audit manually
 - `docs/payment-setup.md` - exact payment setup needed before launch
+- `docs/report-template.md` - paid audit fulfillment report template
 - `docs/outreach.md` - first outbound sprint copy and goals
 - `docs/prospects.csv` - first prospect list from public web research
 
