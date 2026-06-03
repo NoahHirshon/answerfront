@@ -81,3 +81,9 @@ Here is the page:
 - Close 1 paid audit
 - Fulfill manually using `docs/fulfillment-playbook.md`
 - Raise price to `$249` if the first 5 conversations do not push back on price
+
+## Drafting Status
+
+Three first-touch Gmail drafts were created on June 3, 2026 and are tracked in `docs/campaign-ledger.md`.
+
+They are not sent yet. Sending from the connected Gmail account should wait for explicit approval because it uses Noah's personal sender identity.
