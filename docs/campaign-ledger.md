@@ -8,6 +8,7 @@ Label created:
 
 - `Answerfront Outreach`
 - Gmail label ID: `Label_24`
+- Applied to the three first-touch draft messages.
 
 Drafts created, not sent:
 
